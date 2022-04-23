@@ -85,7 +85,7 @@
         <div class="collapse navbar-collapse navbar-left" id="options">
 					<ul class="nav navbar-nav">
 						<li><a id="home" href="#"><b> Home </b></a></li>
-						<li><a id="photo" href="services.php"><b> Our Services </b></a></li>
+						<li><a id="photo" href="services.php"><b> Services </b></a></li>
 						<li><a id="reserve" href="#"><b> Reserve </b></a></li>
 					</ul>
         </div>
